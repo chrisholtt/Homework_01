@@ -12,6 +12,9 @@ person = {
 
 desired_age = age - 7
 
+float_and_int_added_together = age + a_float
+print(float_and_int_added_together)
+
 
 print(desired_age)
 print(type(name))
